@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0078-subsets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1020-longest-turbulent-subarray](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1020-longest-turbulent-subarray) |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1020-longest-turbulent-subarray](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1020-longest-turbulent-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
