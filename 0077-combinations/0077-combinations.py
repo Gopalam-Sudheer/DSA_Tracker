@@ -5,12 +5,10 @@ class Solution:
             return
         if ind==n+1:
             return
-        temp.append(ind)
-        self.combGen(ans,n,k,ind+1,temp)
-        temp.pop()
-        self.combGen(ans,n,k,ind+1,temp)
-
-        
+        for i in range(ind,n+1):
+            temp.append(i)
+            self.combGen(ans,n,k,i+1,temp)
+            temp.pop()        
 
     def combine(self, n: int, k: int) -> List[List[int]]:
         ans=[]
