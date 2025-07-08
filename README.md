@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0560-subarray-sum-equals-k](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [1020-longest-turbulent-subarray](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1020-longest-turbulent-subarray) |
 ## Binary Search
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
