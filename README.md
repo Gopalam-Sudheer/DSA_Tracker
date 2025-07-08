@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0078-subsets) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
 | [1020-longest-turbulent-subarray](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1020-longest-turbulent-subarray) |
 ## Backtracking
 |  |
@@ -69,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0047-permutations-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
