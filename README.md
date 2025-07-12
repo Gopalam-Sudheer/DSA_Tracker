@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
