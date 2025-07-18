@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0090-subsets-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0304-range-sum-query-2d-immutable) |
 ## Linked List
 |  |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0371-sum-of-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
