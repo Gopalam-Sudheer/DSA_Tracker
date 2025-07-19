@@ -3,15 +3,11 @@ class Solution:
         st=[]
         d={}
         result=[]
-        for i in range(len(nums2)-1,-1,-1):
-            while len(st)!=0 and st[-1]<nums2[i]:
-                st.pop()
-            if len(st)==0:
-                d[nums2[i]]=-1
-            else:
-                d[nums2[i]]=st[-1]
-            st.append(nums2[i])
-        for j in nums1:
-            result.append(d[j])
-        return result
+        for i in nums2:
+            while st and st[-1]<i:
+                d[st.pop()]=i
+            st.append(i)
+        for i in st:
+            d[i]=-1
+        return [d[x] for x in nums1]
         
