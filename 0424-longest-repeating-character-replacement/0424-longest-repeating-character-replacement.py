@@ -1,17 +1,17 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
+        l=0
+        r=0
         ans=0
-        charCount={}
-        start=0
-        end=0
-        maxFreq=0
-        while end<len(s):
-            charCount[s[end]]=1+charCount.get(s[end],0)
-            maxFreq=max(maxFreq,charCount[s[end]])
-            if end-start+1-maxFreq<=k:
-                ans=max(ans,end-start+1)
+        d={}
+        maxi=0
+        while r<len(s):
+            d[s[r]]=d.get(s[r],0)+1
+            maxi=max(maxi,d[s[r]])
+            if r-l+1-maxi<=k:
+                ans=max(ans,r-l+1)
             else:
-                charCount[s[start]]-=1
-                start+=1
-            end+=1
+                d[s[l]]-=1
+                l+=1
+            r+=1
         return ans
