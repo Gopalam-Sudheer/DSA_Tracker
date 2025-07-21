@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0424-longest-repeating-character-replacement) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0131-palindrome-partitioning) |
 | [1020-longest-turbulent-subarray](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1020-longest-turbulent-subarray) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
