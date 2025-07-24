@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0792-binary-search) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
