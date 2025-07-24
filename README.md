@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3396-valid-word](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3396-valid-word) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0943-sum-of-subarray-minimums) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0943-sum-of-subarray-minimums) |
 ## Prefix Sum
