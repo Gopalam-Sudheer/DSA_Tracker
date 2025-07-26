@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1675-magnetic-force-between-two-balls) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1675-magnetic-force-between-two-balls) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Design
 |  |
 | ------- |
