@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0120-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0198-house-robber) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0213-house-robber-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0943-sum-of-subarray-minimums) |
