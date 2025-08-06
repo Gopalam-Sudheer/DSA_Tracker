@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0202-happy-number) |
@@ -344,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
