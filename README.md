@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0567-permutation-in-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0304-range-sum-query-2d-immutable) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -323,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0662-maximum-width-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
