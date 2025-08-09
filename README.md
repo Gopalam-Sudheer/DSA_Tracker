@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0371-sum-of-two-integers) |
 ## Sorting
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0371-sum-of-two-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
 ## Simulation
@@ -359,4 +361,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
