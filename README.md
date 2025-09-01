@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0125-valid-palindrome) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0135-candy) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0120-triangle) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0231-power-of-two) |
