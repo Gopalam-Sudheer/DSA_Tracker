@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0131-palindrome-partitioning) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
