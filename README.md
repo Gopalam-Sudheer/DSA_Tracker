@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0132-palindrome-partitioning-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0090-subsets-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0216-combination-sum-iii) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0733-flood-fill) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0130-surrounded-regions) |
