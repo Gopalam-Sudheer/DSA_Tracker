@@ -1,28 +1,22 @@
 class Solution:
-    def fun(self,board,word,index,i,j):
-        if index==len(word):
+    def isValid(self,i,j,board):
+        if i<0 or i>=len(board) or j<0 or j>=len(board[0]):
+            return False
+        return True
+    def helper(self,board,i,j,word,ind):
+        if ind==len(word):
             return True
-        if board[i][j]=="" or board[i][j]!=word[index]:
+        if not self.isValid(i,j,board) or board[i][j]=="" or board[i][j]!=word[ind]:
             return False
         temp=board[i][j]
-        board[i][j]=""
-        ans=False
-        if i-1>=0:
-            ans= ans or self.fun(board,word,index+1,i-1,j)
-        if i+1<=len(board)-1:
-            ans= ans or self.fun(board,word,index+1,i+1,j)
-        if j-1>=0:
-            ans= ans or self.fun(board,word,index+1,i,j-1)
-        if j+1<=len(board[0])-1:
-            ans= ans or self.fun(board,word,index+1,i,j+1)
+        board[i][j]=''
+        ans=(self.helper(board,i-1,j,word,ind+1) or self.helper(board,i,j-1,word,ind+1) or self.helper(board,i+1,j,word,ind+1) or self.helper(board,i,j+1,word,ind+1))
         board[i][j]=temp
         return ans
     def exist(self, board: List[List[str]], word: str) -> bool:
         for i in range(len(board)):
             for j in range(len(board[0])):
                 if board[i][j]==word[0]:
-                    if len(word)==1:
-                        return True
-                    if self.fun(board,word,0,i,j):
+                    if self.helper(board,i,j,word,0):
                         return True
         return False
