@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0900-reordered-power-of-2) |
 | [0966-binary-subarrays-with-sum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0966-binary-subarrays-with-sum) |
 | [1129-longest-string-chain](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1129-longest-string-chain) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0812-rotate-string) |
 | [1129-longest-string-chain](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1129-longest-string-chain) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0768-partition-labels) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
