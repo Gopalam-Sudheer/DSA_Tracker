@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0662-maximum-width-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0801-is-graph-bipartite) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0662-maximum-width-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1036-rotting-oranges) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
