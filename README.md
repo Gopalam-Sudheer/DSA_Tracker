@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0900-reordered-power-of-2) |
 | [0966-binary-subarrays-with-sum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0966-binary-subarrays-with-sum) |
 | [1129-longest-string-chain](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1129-longest-string-chain) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0948-sort-an-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0435-non-overlapping-intervals) |
+| [0876-hand-of-straights](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1129-longest-string-chain) |
