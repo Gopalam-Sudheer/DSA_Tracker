@@ -13,8 +13,6 @@ class Solution {
         return true; 
     }
     public boolean hasIncreasingSubarrays(List<Integer> nums, int k) {
-        int prev=0;
-        int cur=1;
         for(int i=0;i<nums.size()-2*k+1;i++){
             if(check(i,i+k,nums,k)){
                 return true;
