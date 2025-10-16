@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2529-range-product-queries-of-powers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2529-range-product-queries-of-powers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Simulation
 |  |
 | ------- |
