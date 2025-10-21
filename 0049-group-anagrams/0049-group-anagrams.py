@@ -1,14 +1,19 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         ans=[]
-        res=defaultdict(list)
-        for i in strs:
-            count=[0]*26
-            for j in i:
-                count[ord(j)-ord('a')]+=1
-            res[tuple(count)].append(i)
-        for j in res.values():
-            ans.append(j)
+        d={}
+        for s in strs:
+            occ=[0 for i in range(26)]
+            for c in s:
+                occ[ord(c)-ord('a')]+=1
+            key=""
+            for i in range(26):
+                key+=chr(ord('a')+i)*occ[i]
+            if key in d:
+                d[key].append(s)
+            else:
+                d[key]=[s]
+        for i in d:
+            ans.append(d[i])
         return ans
         
-
