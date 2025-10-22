@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0733-flood-fill) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0682-baseball-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1078-remove-outermost-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2058-concatenation-of-array) |
 ## Memoization
 |  |
