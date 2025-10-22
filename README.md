@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1580-shuffle-the-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1675-magnetic-force-between-two-balls) |
