@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Simulation
 |  |
