@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2169-simple-bank-system](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2169-simple-bank-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2169-simple-bank-system) |
 | [2529-range-product-queries-of-powers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2529-range-product-queries-of-powers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0304-range-sum-query-2d-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2169-simple-bank-system](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2169-simple-bank-system) |
 ## Matrix
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2169-simple-bank-system) |
 ## Memoization
 |  |
 | ------- |
