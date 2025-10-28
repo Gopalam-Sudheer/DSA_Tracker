@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2529-range-product-queries-of-powers) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Design
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2169-simple-bank-system) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Memoization
 |  |
 | ------- |
