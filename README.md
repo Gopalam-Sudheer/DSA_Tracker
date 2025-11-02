@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2529-range-product-queries-of-powers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2529-range-product-queries-of-powers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1036-rotting-oranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2169-simple-bank-system) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Memoization
 |  |
