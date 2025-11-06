@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0120-triangle) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0145-binary-tree-postorder-traversal) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0503-next-greater-element-ii) |
