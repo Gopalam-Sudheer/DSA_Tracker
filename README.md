@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3863-power-grid-maintenance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3863-power-grid-maintenance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0948-sort-an-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0801-is-graph-bipartite) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3863-power-grid-maintenance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -584,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3863-power-grid-maintenance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
@@ -613,11 +618,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0801-is-graph-bipartite) |
+| [3863-power-grid-maintenance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0801-is-graph-bipartite) |
+| [3863-power-grid-maintenance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -639,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0278-first-bad-version) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
