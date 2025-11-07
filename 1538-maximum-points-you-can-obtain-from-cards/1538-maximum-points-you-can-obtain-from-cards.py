@@ -1,8 +1,12 @@
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:
-        score=sum(cardPoints[:k])
-        ans=score
+        score=0
+        ans=0
         for i in range(k):
-            score=score-cardPoints[k-1-i]+cardPoints[len(cardPoints)-1-i]
+            score+=cardPoints[i]
+        ans=score
+        for i in range(k-1,-1,-1):
+            score-=cardPoints[i]
+            score+=cardPoints[len(cardPoints)-(k-i)]
             ans=max(ans,score)
         return ans
