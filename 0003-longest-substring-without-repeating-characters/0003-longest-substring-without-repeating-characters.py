@@ -1,8 +1,8 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        d={}
         start=0
         ans=0
-        d={}
         for i in range(len(s)):
             if s[i] in d and d[s[i]]>=start:
                 start=d[s[i]]+1
