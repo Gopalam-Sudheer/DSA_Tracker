@@ -1,11 +1,12 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        ans=0
+        d={}
         start=0
         end=0
-        d={}
+        ans=0
+        n=len(s)
         maxi=0
-        while end<len(s):
+        while end<n:
             d[s[end]]=d.get(s[end],0)+1
             maxi=max(maxi,d[s[end]])
             if end-start+1-maxi<=k:
@@ -15,4 +16,3 @@ class Solution:
                 start+=1
             end+=1
         return ans
-                
