@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Backtracking
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0371-sum-of-two-integers) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2529-range-product-queries-of-powers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## String Matching
 |  |
 | ------- |
