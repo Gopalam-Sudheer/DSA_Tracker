@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1477-product-of-the-last-k-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Memoization
