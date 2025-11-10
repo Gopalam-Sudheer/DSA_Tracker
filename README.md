@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1078-remove-outermost-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0943-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
