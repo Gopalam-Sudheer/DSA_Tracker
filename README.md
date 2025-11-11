@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0678-valid-parenthesis-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0496-next-greater-element-i) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0518-coin-change-ii) |
