@@ -1,22 +1,14 @@
-class Solution:    
+class Solution:
     def numberOfSubstrings(self, s: str) -> int:
-        l=0
-        r=0
+        a,b,c=-1,-1,-1
         ans=0
-        d={}
-        c=0
-        d['a']=1
-        d['b']=1
-        d['c']=1
-        while r<len(s):
-            d[s[r]]-=1
-            if d[s[r]]==0:
-                c+=1
-            while c==3:
-                ans+=len(s)-r
-                d[s[l]]+=1
-                if d[s[l]]>0:
-                    c-=1
-                l+=1
-            r+=1
+        for i in range(len(s)):
+            if s[i]=='a':
+                a=i
+            elif s[i]=='b':
+                b=i
+            elif s[i]=='c':
+                c=i
+            if a!=-1 and b!=-1 and c!=-1:
+                ans+=min(a,b,c)+1
         return ans
