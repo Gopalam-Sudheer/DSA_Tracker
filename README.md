@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0948-sort-an-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0890-lemonade-change) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2026-merge-triplets-to-form-target-triplet) |
