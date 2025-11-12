@@ -1,15 +1,18 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-        leftMin=0
-        leftMax=0
+        mi=0
+        ma=0
         for i in s:
             if i=='(':
-                leftMin,leftMax=leftMin+1,leftMax+1
+                mi+=1
+                ma+=1
             elif i==')':
-                leftMin,leftMax=leftMin-1,leftMax-1
+                mi-=1
+                ma-=1
             else:
-                leftMin,leftMax=leftMin-1,leftMax+1
-            if leftMax<0:
+                mi-=1
+                ma+=1
+            if ma<0:
                 return False
-            leftMin=max(0,leftMin)
-        return leftMin==0
+            mi=max(mi,0)
+        return mi==0
