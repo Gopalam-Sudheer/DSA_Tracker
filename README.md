@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2529-range-product-queries-of-powers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Design
 |  |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1036-rotting-oranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2625-increment-submatrices-by-one) |
 ## Linked List
 |  |
 | ------- |
