@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1129-longest-string-chain) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1477-product-of-the-last-k-numbers) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2288-count-operations-to-obtain-zero) |
