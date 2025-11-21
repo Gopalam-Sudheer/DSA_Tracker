@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3396-valid-word](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3396-valid-word) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0371-sum-of-two-integers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2529-range-product-queries-of-powers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2625-increment-submatrices-by-one) |
