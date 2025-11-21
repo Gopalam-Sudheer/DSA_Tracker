@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0368-largest-divisible-subset) |
