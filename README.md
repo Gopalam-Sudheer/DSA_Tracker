@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0967-minimum-falling-path-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-longest-turbulent-subarray](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1020-longest-turbulent-subarray) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1036-rotting-oranges) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0371-sum-of-two-integers) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2323-minimum-bit-flips-to-convert-number) |
