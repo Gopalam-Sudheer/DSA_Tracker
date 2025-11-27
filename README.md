@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2625-increment-submatrices-by-one) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Design
 |  |
