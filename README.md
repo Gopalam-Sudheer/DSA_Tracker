@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0801-is-graph-bipartite) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
