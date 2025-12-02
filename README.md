@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1590-make-sum-divisible-by-p) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2169-simple-bank-system) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1129-longest-string-chain) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1580-shuffle-the-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1590-make-sum-divisible-by-p) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1129-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/1675-magnetic-force-between-two-balls) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Gopalam-Sudheer/DSA_Tracker/tree/master/2141-maximum-running-time-of-n-computers) |
